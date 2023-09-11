@@ -1,0 +1,9 @@
+@tailwind base;
+@layer base {
+      html {
+        @apply text-slate-600;
+      }
+}
+
+@tailwind components;
+@tailwind utilities;
