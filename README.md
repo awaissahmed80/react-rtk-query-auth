@@ -1,6 +1,6 @@
 # React + Vite + Tailwind CSS + RTK Query Auth Flow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React+Vite, RTK Query, TailwindCSS working Authentication flow with refresh token interceptor.
 
 Currently, two official plugins are available:
 
